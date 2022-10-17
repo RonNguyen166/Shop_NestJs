@@ -21,3 +21,5 @@ http://localhost:3000/api/seed
 ```
 
 7. Chạy dự án: `yarn start:dev`
+
+# Producton notes:
