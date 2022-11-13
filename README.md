@@ -3,7 +3,7 @@
 </p>
 
 # Link Api Swagger UI
-<a herf="https://teslo-s-nestjs.herokuapp.com/api">https://teslo-s-nestjs.herokuapp.com/api</a>
+<a herf="https://teslo-s-nestjs.herokuapp.com/api" target="blank">https://teslo-s-nestjs.herokuapp.com/api</a>
 
 
 # Teslo API
